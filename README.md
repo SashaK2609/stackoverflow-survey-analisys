@@ -1,5 +1,7 @@
 # stackoverflow-survey-analisys
 
+![]([https://badges.aleen42.com/src/react.svg](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white))
+
 ## Discription
 For this assignment I analized latest 2024 survey where over 65,000 developers responded to annual [Stackooverflow](https://survey.stackoverflow.co/) survey about coding, working, AI and how they feel about all of those topics and more. I used Google Colab to work with this file and answered main questions:
 - How many respondents did the survey and how many of them answeres all the questions?
