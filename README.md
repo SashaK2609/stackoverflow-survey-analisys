@@ -4,7 +4,7 @@
 ![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
 ## Discription
-For this assignment I analized latest 2024 survey where over 65,000 developers responded to annual [Stackooverflow](https://survey.stackoverflow.co/) survey about coding, working, AI and how they feel about all of those topics and more. I used Google Colab to work with this file and answered main questions:
+For this assignment I analized latest 2024 survey where over 65,000 developers responded to annual [Stackoverflow](https://survey.stackoverflow.co/) survey about coding, working, AI and how they feel about all of those topics and more. I used Google Colab to work with this file and answered main questions:
 - How many respondents did the survey and how many of them answeres all the questions?
 - Define main measures of central tendency for Work Experience for all respondents.
 - How many respondents work remotely?
